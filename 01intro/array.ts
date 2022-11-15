@@ -1,15 +1,15 @@
-const superHeros: string[] = []
-// const heroPower: number[] = []
-const heroPower: Array<number> = []
+let superHeros: string[] = []
+// let heroPower: number[] = []
+let heroPower: Array<number> = []
 
 type User = {
     name: string
     isActive: boolean
 }
 
-const allUser: User[] = []
+let allUser: User[] = []
 
-const MLModels: number[][] = [
+let MLModels: number[][] = [
     [255, 255, 255]
 ]
 
