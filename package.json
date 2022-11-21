@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/annsuparada/typescript/issues"
   },
-  "homepage": "https://github.com/annsuparada/typescript#readme"
+  "homepage": "https://github.com/annsuparada/typescript#readme",
+  "dependencies": {}
 }
